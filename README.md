@@ -2,9 +2,8 @@
 
 Predicting the expected yearly claim cost of a motor insurance policy with frequency and severity GLMs, a Bayesian hierarchical model for regional effects, and a Streamlit pricing app.
 
-**Live app:** [FILL IN: your Streamlit link]
+**Live app:** https://janvi-insurance-pricing.streamlit.app
 
-![App screenshot](images/app_screenshot.png)
 
 ## Overview
 
